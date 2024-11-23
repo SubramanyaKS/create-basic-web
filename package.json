@@ -1,0 +1,26 @@
+{
+  "name": "create-basic-app",
+  "version": "1.0.0",
+  "main": "dist/cli.js",
+  "type": "module",
+  "bin": {
+    "create-basic-app": "./dist/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/cli.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^12.1.0"
+  },
+  "devDependencies": {
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
+  }
+}

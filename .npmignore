@@ -1,0 +1,7 @@
+src/
+test/
+tsconfig.json
+.gitignore
+dummy.txt
+node_modules
+CONTRIBUTING.md
