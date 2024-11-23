@@ -11,10 +11,17 @@
     "start": "node dist/cli.js",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SubramanyaKS/create-basic-app"
+  },
+  "bugs": {
+    "url": "https://github.com/SubramanyaKS/create-basic-app/issues"
+  },
+  "keywords": ["html","css","javascript","cli","basic-app","html-app","javascript-app"],
+  "author": "SubramanyaKS",
+  "license": "MIT",
+  "description": "A cli tool which will create a basic scaffold web application (basic html,css,javascript)",
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^12.1.0"

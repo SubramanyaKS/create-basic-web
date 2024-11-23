@@ -48,4 +48,19 @@ All tasks completed!
 
 3. Navigate to the folder:
 
+```
 cd my-project
+```
+
+5. Modify the app as per your wish.
+
+## Contribution
+
+We welcome contributions! If you'd like to contribute to openweathermap-wrapper, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/create-basic-app/blob/main/CONTRIBUTING.md).
+
+## Author
+[Subramanya KS](https://github.com/SubramanyaKS)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
