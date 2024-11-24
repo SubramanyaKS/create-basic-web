@@ -1,10 +1,10 @@
 {
-  "name": "create-basic-app",
+  "name": "create-basic-web",
   "version": "1.0.0",
   "main": "dist/cli.js",
   "type": "module",
   "bin": {
-    "create-basic-app": "./dist/cli.js"
+    "create-basic-web": "dist/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,12 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SubramanyaKS/create-basic-app"
+    "url": "git+https://github.com/SubramanyaKS/create-basic-web.git"
   },
   "bugs": {
-    "url": "https://github.com/SubramanyaKS/create-basic-app/issues"
+    "url": "https://github.com/SubramanyaKS/create-basic-web/issues"
   },
-  "keywords": ["html","css","javascript","cli","basic-app","html-app","javascript-app"],
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "cli",
+    "basic-app",
+    "html-app",
+    "javascript-app"
+  ],
   "author": "SubramanyaKS",
   "license": "MIT",
   "description": "A cli tool which will create a basic scaffold web application (basic html,css,javascript)",
