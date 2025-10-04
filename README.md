@@ -56,7 +56,7 @@ cd my-project
 
 ## Contribution
 
-We welcome contributions! If you'd like to contribute to openweathermap-wrapper, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/create-basic-web/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you'd like to contribute to create-basic-app, please follow our [Contribution Guidelines](https://github.com/SubramanyaKS/create-basic-web/blob/main/CONTRIBUTING.md).
 
 ## Author
 [Subramanya KS](https://github.com/SubramanyaKS)

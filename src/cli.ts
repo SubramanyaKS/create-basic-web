@@ -10,6 +10,9 @@ const main = async() => {
   try {
     console.log('Running CLI App...');
     const answers = await createProject();
+    if (!answers) {
+      throw new Error("Failed to get project details.");
+    }
     const { folderName } = answers;
      // Create folders and add files
      createMainFolder('',folderName,"index.html",htmlContent);
